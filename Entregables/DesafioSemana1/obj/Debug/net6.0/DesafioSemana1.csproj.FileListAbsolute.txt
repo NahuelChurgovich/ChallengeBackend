@@ -1,0 +1,15 @@
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\bin\Debug\net6.0\DesafioSemana1.exe
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\bin\Debug\net6.0\DesafioSemana1.deps.json
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\bin\Debug\net6.0\DesafioSemana1.runtimeconfig.json
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\bin\Debug\net6.0\DesafioSemana1.dll
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\bin\Debug\net6.0\ref\DesafioSemana1.dll
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\bin\Debug\net6.0\DesafioSemana1.pdb
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.csproj.AssemblyReference.cache
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.AssemblyInfoInputs.cache
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.AssemblyInfo.cs
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.csproj.CoreCompileInputs.cache
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.dll
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\ref\DesafioSemana1.dll
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.pdb
+C:\Users\nchur\Documents\Nahu\ChallengeBackend\Entregables\DesafioSemana1\obj\Debug\net6.0\DesafioSemana1.genruntimeconfig.cache
