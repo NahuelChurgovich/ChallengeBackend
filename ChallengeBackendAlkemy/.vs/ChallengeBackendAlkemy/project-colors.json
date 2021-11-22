@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25d785c1-25d3-4cbf-9963-dfc871b2d407": {
+      "ProjectGuid": "25d785c1-25d3-4cbf-9963-dfc871b2d407",
+      "DisplayName": "ConsoleForTest",
+      "ColorIndex": 0
+    },
+    "1a6238c5-d36f-4cb3-af02-b8369ca45124": {
+      "ProjectGuid": "1a6238c5-d36f-4cb3-af02-b8369ca45124",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
